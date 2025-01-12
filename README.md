@@ -13,16 +13,16 @@ I am a **Full Stack Developer** with a **Bachelor of Science (BSc)** degree in C
 ## ✨ Skills & Tools
 
 ### Languages
- ✳️JavaScript**
-- ✳️Python**
-- ✳️C, C++**
-- ✳️Java**
-- ✳️HTML, JSX**
-- ✳️CSS, SASS**
+  ✳️JavaScript**
+  ✳️Python**
+  ✳️C, C++**
+  ✳️Java**
+  ✳️HTML, JSX**
+  ✳️CSS, SASS**
 
 
 ### Programming Paradigms
-- ✳️Object-Oriented Programming (OOP)**
+  ✳️Object-Oriented Programming (OOP)**
 
 ---
 
@@ -34,16 +34,16 @@ I have extensive experience working both independently and as part of a team to 
 
 ## 📈 Areas of Expertise
 
-- ✅JavaScript** - For responsive design and interactive UI.
-- ✅React.js** - Client-side development.
-- ✅Node.js** - Backend development.
-- ✅Express.js** - Simplifies server-side routing.
-- ✅MongoDB, Firebase** - Database solutions.
-- ✅API Testing** - Using tools like Postman and Thunder Client.
-- ✅CSS Frameworks** - Tailwind CSS, Material UI, Bootstrap for UI/UX.
-- ✅Docker** - Containerization.
-- ✅GitHub** - Version control.
-- ✅Netlify, Heroku, Vercel** - Hosting and deployment.
+  ✅JavaScript** - For responsive design and interactive UI.
+  ✅React.js** - Client-side development.
+  ✅Node.js** - Backend development.
+  ✅Express.js** - Simplifies server-side routing.
+  ✅MongoDB, Firebase** - Database solutions.
+  ✅API Testing** - Using tools like Postman and Thunder Client.
+  ✅CSS Frameworks** - Tailwind CSS, Material UI, Bootstrap for UI/UX.
+  ✅Docker** - Containerization.
+  ✅GitHub** - Version control.
+  ✅Netlify, Heroku, Vercel** - Hosting and deployment.
 
 ---
 
