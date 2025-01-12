@@ -13,7 +13,7 @@ I am a **Full Stack Developer** with a **Bachelor of Science (BSc)** degree in C
 ## ✨ Skills & Tools
 
 ### Languages
-✳️JavaScript**
+**✳️JavaScript**
 ✳️Python**
   ✳️C, C++**
   ✳️Java**
