@@ -20,24 +20,6 @@ I am a **Full Stack Developer** with a **Bachelor of Science (BSc)** degree in C
 - **HTML, JSX**
 - **CSS, SASS**
 
-### Frontend Development
-- **React.js** - A client-side JavaScript framework.
-- **Next.js** - React framework for server-side rendering.
-- **Bootstrap, Tailwind CSS, Material UI** - Facilitate development and responsiveness.
-- **Figma** - Follow UI design principles.
-
-### Backend Development
-- **Node.js** - Premier JavaScript web server.
-- **Express.js** - Node.js web framework.
-- **MongoDB** - Document database.
-
-### Tools & Platforms
-- **Firebase** - Authentication, deployment.
-- **Docker** - Containerization.
-- **Postman, Thunder Client** - API testing.
-- **GitHub** - Version control.
-- **Netlify, Heroku, Vercel** - Hosting and deployment.
-- **XAMPP** - Local server setup.
 
 ### Programming Paradigms
 - **Object-Oriented Programming (OOP)**
@@ -65,8 +47,8 @@ I have extensive experience working both independently and as part of a team to 
 ## 📫 Contact Me
 
 - **Email**: [alamincse44@gmail.com](mailto:alamincse44@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile Link](#)
-- **Portfolio**: [Your Portfolio Website](#)
+- **LinkedIn**: [[Your LinkedIn Profile Link](https://www.linkedin.com/in/al-amin-1b4587216/)](#)
+- **Portfolio**: [[Your Portfolio Website](https://rehan-alamin-portfolio.netlify.app/)](#)
 
 ---
 
