@@ -13,16 +13,16 @@ I am a **Full Stack Developer** with a **Bachelor of Science (BSc)** degree in C
 ## ✨ Skills & Tools
 
 ### Languages
-- **JavaScript**
-- **Python**
-- **C, C++**
-- **Java**
-- **HTML, JSX**
-- **CSS, SASS**
+- ✳️JavaScript**
+- ✳️Python**
+- ✳️C, C++**
+- ✳️Java**
+- ✳️HTML, JSX**
+- ✳️CSS, SASS**
 
 
 ### Programming Paradigms
-- **Object-Oriented Programming (OOP)**
+- ✳️Object-Oriented Programming (OOP)**
 
 ---
 
@@ -34,18 +34,21 @@ I have extensive experience working both independently and as part of a team to 
 
 ## 📈 Areas of Expertise
 
-- **JavaScript** - For responsive design and interactive UI.
-- **React.js** - Client-side development.
-- **Node.js** - Backend development.
-- **Express.js** - Simplifies server-side routing.
-- **MongoDB, Firebase** - Database solutions.
-- **API Testing** - Using tools like Postman and Thunder Client.
-- **CSS Frameworks** - Tailwind CSS, Material UI, Bootstrap for UI/UX.
+- ✅JavaScript** - For responsive design and interactive UI.
+- ✅React.js** - Client-side development.
+- ✅Node.js** - Backend development.
+- ✅Express.js** - Simplifies server-side routing.
+- ✅MongoDB, Firebase** - Database solutions.
+- ✅API Testing** - Using tools like Postman and Thunder Client.
+- ✅CSS Frameworks** - Tailwind CSS, Material UI, Bootstrap for UI/UX.
+- ✅Docker** - Containerization.
+- ✅GitHub** - Version control.
+- ✅Netlify, Heroku, Vercel** - Hosting and deployment.
 
 ---
 
 ## 📫 Connect With Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://rehan-alamin-portfolio.netlify.app//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rehan.mohammed.al.amin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rehan-alamin-portfolio.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/al-amin-1b4587216//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rehan.mohammed.al.amin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rehan-alamin-portfolio.netlify.app/)  
 
 ## 📫 Contact Me
 
