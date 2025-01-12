@@ -25,6 +25,9 @@ I am a **Full Stack Developer** with a **Bachelor of Science (BSc)** degree in C
 
 ---
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-cse44)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔰 Professional Summary
 
 I have extensive experience working both independently and as part of a team to implement challenging web development projects. My work is driven by deadlines, requirements, and a focus on delivering high-quality results. I continuously strive to update my skills to meet the demands of the rapidly evolving tech industry.
