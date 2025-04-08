@@ -38,6 +38,7 @@ I have extensive experience working both independently and as part of a team to 
 ## 📈 Areas of Expertise
 
 ✅ **JavaScript** - For responsive design and interactive UI. <br>
+✅ **TypeScript** - Superset of the JavaScript. <br>
 ✅ **React.js** - Client-side development. <br>
 ✅ **Node.js** - Backend development. <br>
 ✅ **Express.js** - Simplifies server-side routing. <br>
