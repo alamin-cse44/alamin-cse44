@@ -1,5 +1,3 @@
-# Hi there, I'm **Al Amin** ✨
-
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQGflMwxHFcVqA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731088497909?e=1749686400&v=beta&t=adVyZ4GHcGUlUVpkJD_K42McpU6N3T3x5cp-TOCAAH4)
 
 ---
@@ -8,7 +6,7 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alamin-cse44)  
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 Skills and Tools:</h3>
 <br/>
 <p align="center"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
@@ -36,22 +34,6 @@
 ## 🚀 About Me
 
 I am a **Full Stack Developer** with a **Bachelor of Science (BSc)** degree in Computer Science and Engineering from the **University of Asia Pacific, Dhaka, Bangladesh**. I have **2 years of professional software development experience** and extensive expertise in both front-end and back-end technologies.
-
----
-
-## ✨ Skills & Tools
-
-### Languages
-✳️ **TypeScript** <br>
-✳️ **JavaScript** <br>
-✳️ **Python** <br>
-✳️ **C, C++** <br>
-✳️ **Java** <br>
-✳️ **HTML, JSX** <br>
-✳️ **CSS, SASS** <br>
-
-### Programming Paradigms
-✳️ **Object-Oriented Programming (OOP)**
 
 ---
 
