@@ -5,7 +5,7 @@
  
 <h3>📈 Current Stats</h3>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=alamin-cse44)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=alamin-cse44)   
 
 ---
 
