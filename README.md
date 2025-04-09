@@ -4,6 +4,9 @@
 
 ---
 
+## :chart_with_upwards_trend: Current Stats 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=alamin-cse44)
+
 
 ## 🚀 About Me
 
