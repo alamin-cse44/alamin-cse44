@@ -38,7 +38,8 @@ I am a **Full Stack Developer** with a **Bachelor of Science (BSc)** degree in C
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-cse44&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-cse44)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## 🔰 Professional Summary
 
