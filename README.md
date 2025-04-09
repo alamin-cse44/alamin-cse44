@@ -6,6 +6,8 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alamin-cse44)  
 
+---
+
 <h3 align="left">💻 Skills and Tools:</h3>
 <br/>
 <p align="center"> 
@@ -52,13 +54,10 @@
 
 ---
 
-## 📫 Connect With Me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/al-amin-1b4587216//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rehan.mohammed.al.amin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rehan-alamin-portfolio.netlify.app/)
-
 ## 📫 Contact Me
 
-- **Email**: [alamincse44@gmail.com](mailto:alamincse44@gmail.com)
+**Email**: [alamincse44@gmail.com](mailto:alamincse44@gmail.com) <br>
+**Phone**: +8801643530690
 
 ---
 
