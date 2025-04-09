@@ -4,8 +4,9 @@
 
 ---
 
-## :chart_with_upwards_trend: Current Stats 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=alamin-cse44)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamin-cse44)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=alamin-cse44)  
 
 
 ## 🚀 About Me
