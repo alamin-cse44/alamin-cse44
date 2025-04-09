@@ -30,20 +30,9 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> 
 </p>
 
-
-## 🚀 About Me
-
-I am a **Full Stack Developer** with a **Bachelor of Science (BSc)** degree in Computer Science and Engineering from the **University of Asia Pacific, Dhaka, Bangladesh**. I have **2 years of professional software development experience** and extensive expertise in both front-end and back-end technologies.
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin-cse44&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🔰 Professional Summary
-
-I have extensive experience working both independently and as part of a team to implement challenging web development projects. My work is driven by deadlines, requirements, and a focus on delivering high-quality results. I continuously strive to update my skills to meet the demands of the rapidly evolving tech industry.
 
 ---
 
